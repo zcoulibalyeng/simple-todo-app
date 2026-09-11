@@ -1,0 +1,11 @@
+{
+  "name": "simple-todo-app",
+  "version": "1.0.0",
+  "description": "A small todo application used as a code-review fixture",
+  "type": "module",
+  "main": "src/todo.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
